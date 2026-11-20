@@ -1,0 +1,21 @@
+# Build outputs
+build/
+dist/
+*.apk
+*.aab
+
+# Signing material (never commit)
+soda.keystore
+*.jks
+*.keystore
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
